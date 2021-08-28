@@ -1,0 +1,16 @@
+.userItem {
+    border: 1px black solid;
+    padding: 5px;
+    width: 80%;
+    margin: auto;
+}
+p {
+    margin: 0;
+    padding: 0;
+}
+#female {
+    background-color: #ffebee;
+}
+#male {
+    background-color: white;
+}

@@ -1,0 +1,15 @@
+.formWrapper {
+    width: 60%;
+    height: 600px;
+    margin: auto;
+}
+form {
+    width: 60%;
+    margin: auto;
+}
+.container {
+    width: 80%;
+}
+span {
+    color: red;
+}

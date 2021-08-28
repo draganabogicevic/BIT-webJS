@@ -1,0 +1,15 @@
+#cardImg {
+    width: 100%;
+}
+.card {
+    width: 30%;
+}
+.card-title {
+    font-size: 30px;
+}
+#female {
+    background-color: #ffebee;
+}
+#male {
+    background-color: white;
+}

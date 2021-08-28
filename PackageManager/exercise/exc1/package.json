@@ -1,0 +1,14 @@
+{
+  "name": "exc1",
+  "version": "1.0.0",
+  "description": "first exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DRagana Bogicevic",
+  "license": "ISC",
+  "dependencies": {
+    "easter-egg-collection": "^1.4.56"
+  }
+}
